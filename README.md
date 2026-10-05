@@ -198,4 +198,5 @@ A reviewer can start with:
 
 ## License
 
-MIT — see `LICENSE`.
+All Rights Reserved © 2026 Mohammed Yaman ALdous.  
+This project is **proprietary** and **not open-source**. See the [LICENSE](LICENSE) file for details.
