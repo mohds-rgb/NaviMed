@@ -1,0 +1,23 @@
+changelog:
+  categories:
+    - title: "User-facing / product"
+      labels:
+        - "feature"
+        - "enhancement"
+    - title: "Engineering"
+      labels:
+        - "bug"
+        - "refactor"
+        - "performance"
+    - title: "Security / data"
+      labels:
+        - "security"
+        - "privacy"
+    - title: "Documentation"
+      labels:
+        - "documentation"
+  exclude:
+    labels:
+      - "skip-changelog"
+    authors:
+      - "dependabot[bot]"
